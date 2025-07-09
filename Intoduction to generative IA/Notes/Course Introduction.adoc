@@ -24,7 +24,7 @@ It is a subset of machine learning
 |Sentient analysys Image class.     |Multiple tasks on same process
 |Only one task with much process    |Works on patterns and relationships
 
-== Foundation models
+== Foundation models (FMs)
 At is core, it hav emultiple machine learning models that includes: 
  * Text generation
  * data summarization
@@ -33,5 +33,39 @@ At is core, it hav emultiple machine learning models that includes:
  * Chatbot interaction
 
 == Comparisson of Traditional and foundational models
+ While traditional models work for an specific tasks, the foundational models
+ can adapt to several tasks, while also be customizable to perform domain-specific
+ function. While also using less resources
+
+== Prompt Engineering
+It alls starts with a Prompt, to obtain an inference (response to Prompt)
+
+== Prompt engineering IT 
+- Example: Using Amazon Q Developer:
+    - Prompt        : write a function to verify an email address.
+    - Inference     : Functions one might use for the solution
+
+== Fundation Model Types
+
+* Text-to-Text      : are build for naturale language
+* Text-to-embeddings: compares text input with indexed data, like search engines
+* MutiModal         : genearet different formats such as images and text
+
+== Use cases for audio::
+
+=== Enhance Customer Experiences
+    * Chatbots and virtual assistances  : Streamline customer self-services reducing operational costs
+    * Agent assist and call analytics   : Summarize customer conversation and analyze interactions
+    * Personalization                   : Deliver better experience depending the client
+
+=== Boost employee productivity
+    * Conversationar search             : Improve search of information
+    * Code generation                   : Code suggestions
+    * Automated Report Generation       : Financial, summaries and projection reports
+
+=== Optimize processes
+    * Intelligent document processing   : extract and Summarize information from doc
+    * Data augmentation                 :  Generate syntetic data to train ML model where dataset is small,imbalanced or sensitive
+    * Supply chain optimization         : Improve logistics and reduce costs evaluating and optimizing different scenarios
 
 
