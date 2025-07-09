@@ -1,0 +1,37 @@
+= Introduction
+Fundamental course for cloud computing
+
+== Objectives
+- Define generative artificial intelligence
+- Define foundation models
+- Discuss different cases
+- Identify features and benefits of AWS
+
+== What is Generative IA ? 
+- Creation of content and ideas including:
+ * stories
+ * conversations
+ * images
+ * music
+
+== How it differs from traditiona IA
+It is a subset of machine learning 
+
+|===
+|Machine Learning                   |Generative IA 
+
+|task based on data own data        |Pre-trained data on massive ammount 
+|Sentient analysys Image class.     |Multiple tasks on same process
+|Only one task with much process    |Works on patterns and relationships
+
+== Foundation models
+At is core, it hav emultiple machine learning models that includes: 
+ * Text generation
+ * data summarization
+ * Information extraction
+ * Question and answer control
+ * Chatbot interaction
+
+== Comparisson of Traditional and foundational models
+
+
