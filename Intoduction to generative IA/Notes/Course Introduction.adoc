@@ -68,4 +68,16 @@ It alls starts with a Prompt, to obtain an inference (response to Prompt)
     * Data augmentation                 :  Generate syntetic data to train ML model where dataset is small,imbalanced or sensitive
     * Supply chain optimization         : Improve logistics and reduce costs evaluating and optimizing different scenarios
 
+== Enhance Creativity and content Creation  
+    * AI-Marketing content              : Social media update, email newsletters
+    * AI-Sales content                  : personalize emails base on customer data
+    * New Product Development           : Generate multiple design prototypes on certain inputs and constrains
+
+== Per industry
+
+=== Health care:
+    * Create transcripts, extact key details and summaries for clinical patien interaction
+    * Interpret medical images
+    * Personalize medicine based on genetics, lifestyle and synthoms
+
 
